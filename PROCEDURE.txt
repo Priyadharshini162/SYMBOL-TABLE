@@ -1,0 +1,9 @@
+Step 1: Start the program with necessary header files
+Step 2: Declare the variables, functions and structure members
+Step 3: Using switch case statement to enter the options insert, display, search, modify and exit.
+Step 4: Insert the label, symbol and address of the values
+Step 5: Display the inserted values in the format of label, symbol and address
+Step 6: Search the particular values in the table using strcmp() to find the label
+Step 7: Modify the inserted label by new label using search()
+Step 8: Display the entire table.
+Step 9: stop the program execution.
