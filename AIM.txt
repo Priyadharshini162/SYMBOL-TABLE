@@ -1,0 +1,2 @@
+Aim:
+To Write a C program to create a symbol table.
